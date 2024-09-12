@@ -1,6 +1,6 @@
 # Mangosbot UI (WoW client addon)
 ## Installation
-Create a folder named Mangosbot in your addOns folder and then drag everything over, this only works for clients running 1.14 using Hermes as a proxy to connect to Vanilla 1.12 CMangos SPP servers.
+Create a folder named Mangosbot in your addOns folder and then drag everything over, alternatively you can simply download the zip from the releases and then extract that to your addons folder as that might be a lot cleaner. This only works for clients running some version of 1.14 using Hermes as a proxy to connect to Vanilla 1.12 CMangos SPP servers.
 This version of the client fixes Priests, Shamans, and Paladin bots from not having updated commands which now appear and function on the bot panel.
 
 If you run into any bugs feel free to join my Discord : https://discord.gg/mb5PdyJyz9 where I will try to fix whatever issues pop up and maintain this version of the addOn for as long as I'm interested in playing the Singleplayer Project for World of Warcraft Classic.
